@@ -2,7 +2,7 @@
 
 2 PART CHALLENGE 
 
-##PyBank Challenge
+## PyBank Challenge
 The purpose of this challenge is to create a Python script to analyze the given financial records in a csv file.
 
 ###Task: calculate each of the following
