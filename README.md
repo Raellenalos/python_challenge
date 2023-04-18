@@ -1,11 +1,11 @@
-#Python-challenge
+# Python-challenge
 
 2 PART CHALLENGE 
 
 ## PyBank Challenge
 The purpose of this challenge is to create a Python script to analyze the given financial records in a csv file.
 
-### Task: calculate each of the following
+### Task: Calculate each of the following
 
 * The total number of months included in the dataset
 
